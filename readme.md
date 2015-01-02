@@ -1,6 +1,6 @@
-## Meteor Wrapper for Highstock
+## Meteor Wrapper for [Highstock](http://www.highcharts.com/)
 
-Add to your Meteor app
+Add this to your Meteor app with:
 
 ```
 meteor add jhuenges:highstock
@@ -8,7 +8,7 @@ meteor add jhuenges:highstock
 
 
 ## Examples
-A set of running examples can be found [here](http://highcharts-demo.meteor.com/) and the source can be found [here](https://github.com/jhuenges/highcharts-demo).
+A set of running examples can be found [here](http://highstock-demo.meteor.com/) and the source can be found [here](https://github.com/jhuenges/meteor-highstock-example).
 
 ## License (Highstock)
 
