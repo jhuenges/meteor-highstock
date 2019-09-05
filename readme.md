@@ -1,3 +1,5 @@
+## This repository and the corresponding meteor package are no longer maintained.
+
 ## Meteor Wrapper for [Highstock](http://www.highcharts.com/)
 
 Add this to your Meteor app with:
